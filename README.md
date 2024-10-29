@@ -1,3 +1,4 @@
-Author: Michael Zarrilli  Contact Info: michaeljzarrilli@gmail.com, https://www.linkedin.com/in/michael-zarrilli-443117206/
+Author: Michael Zarrilli  
+Contact Info: michaeljzarrilli@gmail.com | https://www.linkedin.com/in/michael-zarrilli-443117206/
 
 This portfolio is meant to showcase projects that I completed from the Google cybersecurity certificate, as well as other programming projects
