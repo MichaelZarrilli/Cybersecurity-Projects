@@ -1,3 +1,5 @@
+-- This Query is used to create a table that contains books and their respective bibliographic information --
+
 CREATE TABLE books 
 	(
 		book_id INT NOT NULL AUTO_INCREMENT,
