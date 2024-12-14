@@ -3,4 +3,4 @@ Contact Info: michaeljzarrilli@gmail.com | https://www.linkedin.com/in/michael-z
 
 This portfolio is meant to showcase projects that I completed from the Google cybersecurity certificate, as well as other programming projects.
 
-I am currently studying to achieve the ISC2 CC certification. Afterwards, I plan on pursuing further certifications in this order: CompTIA Security+ --> eJPT --> eCTHP
+I just rececently achieved the ISC2 CC certification. I now plan on pursuing further certifications in this order: CompTIA Security+ --> eJPT --> eCTHP
